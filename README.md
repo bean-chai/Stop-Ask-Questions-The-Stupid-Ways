@@ -2,18 +2,9 @@
 
 Stop-Ask-Questions-The-Stupid-Ways
 
-## 短域名服务
-
-+ https://git.io/how-to-ask
-+ https://git.io/asking-question
-+ https://git.io/stop-stupid
-
-
 ## 你真的准备好了吗？
 
 ![you-are-not-prepared.png](/images/you-are-not-prepared.png)
-
-> 感谢群友 `for you` 提供
 
 ## 避免 xy-problem
 
@@ -37,7 +28,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 1. 要知道，给对方发工资的不是你或者你老板。
 1. 要知道，提问的时候你才是 **孙子**，帮助你的人是 **大爷**。
 1. 要知道，不回答你的问题对其他人没有任何损失。
-1. 要知道，`准确描述一件事情`是一项基本生存技能。要学会 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+1. 要知道，`准确描述一件事情`是一项基本生存技能。
 1. 要知道，`搜索`是一项基本生存技能，学不会用 Google 的话，你可能真的不适合你所从事的行业。
 1. 要知道，`英文`是一项基本生存技能，不认识英文的话，你可能真的不适合你所从事的行业。
 
@@ -85,7 +76,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 在工作中， 你`@`的人可能会多问一句什么情况。 但是在 IM 聊天群里面，就没有这么好运气了。
 
 
-![stupid_02-conversation.png](/images/stupid_02-conversation.png)
+![stupid_02-conversation.jpg](/images/stupid_02-conversation.jpg)
 
 如下很难吗？
 
@@ -94,7 +85,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 环境是: 环境是什么。
 ```
 
-![stupid_02-no-target.png](/images/stupid_02-no-target.png)
+![stupid_02-no-target.jpg](/images/stupid_02-no-target.jpg)
 
 ### 学会什么时候贴文字
 
