@@ -88,7 +88,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 ## 什么是弱智一样的提问
 
-![stupid_questions.png](/images/stupid_questions.png)
+![stupid_questions.png](/images/stupid_questions1.png)
 
 ## 萌新滚粗
 
