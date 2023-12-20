@@ -85,7 +85,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 在工作中， 你`@`的人可能会多问一句什么情况。 但是在 IM 聊天群里面，就没有这么好运气了。
 
 
-![stupid_02-conversation.png](/images/stupid_questions/stupid_02-conversation.png)
+![stupid_02-conversation.png](/images/stupid_02-conversation.png)
 
 如下很难吗？
 
@@ -94,14 +94,14 @@ Stop-Ask-Questions-The-Stupid-Ways
 环境是: 环境是什么。
 ```
 
-![stupid_02-no-target.png](/images/stupid_questions/stupid_02-no-target.png)
+![stupid_02-no-target.png](/images/stupid_02-no-target.png)
 
 ### 学会什么时候贴文字
 
 
 ## 什么是弱智一样的提问
 
-![stupid_questions.png](/images/stupid_questions/stupid_questions.png)
+![stupid_questions.png](/images/stupid_questions.png)
 
 ## 萌新滚粗
 
