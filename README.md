@@ -2,6 +2,8 @@
 
 Stop-Ask-Questions-The-Stupid-Ways
 
+![you-are-not-prepared.png](/images/you-are-not-prepared.png)
+
 ## 避免 xy-problem
 
 + 参考地址: http://xyproblem.info/
